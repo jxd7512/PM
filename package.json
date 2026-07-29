@@ -1,0 +1,12 @@
+{
+  "name": "motherboard-pm-agent",
+  "version": "1.0.0",
+  "description": "主板项目管理平台 - 服务器端数据持久化",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
